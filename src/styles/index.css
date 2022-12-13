@@ -1,0 +1,102 @@
+:root{
+    font-family: Inter;
+    background: whitesmoke;
+}
+.main{
+    color: #0C8818;
+    height: 80px;
+}
+
+.header{
+    height: 90px;
+    background: #0C8818;
+    font-family: Inter;
+}
+
+.nameTitle{
+    color: #ADEA02;
+    font-size: 50px;
+    padding-left: 20px;
+    font-family: Inter;
+}
+
+.main{
+    margin-top: 60px;
+    display: flex;
+}
+
+.buttonsNav{
+    display: block;
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.outer{
+    text-align: center;
+    vertical-align: center;
+    padding-bottom: 50px;
+}
+
+.button{
+    font-family: Inter;
+    width: 75%;
+    height: 120px;
+    color: #000000;
+    background: #D9D9D9;
+    font-size: 45px;
+    border-radius: 35px;
+}
+
+.counterNav{
+    font-family: Inter;
+    flex: 1 1 auto;
+    margin-right: 30px;
+    height: 630px;
+    text-align: center;
+    vertical-align: middle;
+    display: block;
+    color: #000000;
+    background: #D9D9D9;
+    font-size: 50px;
+    border-radius: 35px;
+}
+
+.counterTitle{
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-size: 70px;
+}
+
+.counterValue{
+    font-size: 100px;
+    font-family: Consolas;
+}
+
+.plusMinusDiv{
+}
+
+.valueButton{
+    width: 200px;
+    height: 200px;
+    margin: 0 8px;
+    font-size: 110px;
+    border-color: black;
+    border-style: solid;
+    border-top-style: solid;
+    border-width: 15px;
+    border-radius: 100px;
+    background: #0C8818;
+}
+
+.buttonB1{
+    font-family: Inter;
+    width: 15%;
+    height: 120px;
+    color: #000000;
+    background: #D9D9D9;
+    font-size: 45px;
+    border-radius: 35px;
+    margin: 15px;
+}
+
